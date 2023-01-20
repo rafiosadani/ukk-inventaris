@@ -1,0 +1,264 @@
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.FormLogin.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\UKK INVENTARIS.vbproj.GenerateResource.cache
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\UKK INVENTARIS.vbproj.CoreCompileInputs.cache
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.AdminNav.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.OperatorNav.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterData.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterPegawai.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterJenis.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterLevel.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterPetugas.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterInventaris.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterRuang.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Peminjaman.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Pengembalian.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.PeminjamNav.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanInventarisir.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanPeminjaman.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanPengembalian.resources
+c:\users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanNav.resources
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanPeminjam.resources
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\EnvDTE.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\stdole.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\RdlCompile.cache
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\RdlCompile.compiled
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\UKK INVENTARIS.vbproj.CopyComplete
+C:\Users\server 4\source\repos\WindowsApp2\WindowsApp2\obj\Debug\UKK INVENTARIS.vbprojAssemblyReference.cache
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\EnvDTE.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\stdole.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\UKK INVENTARIS.vbprojAssemblyReference.cache
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.AdminNav.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.FormLogin.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanInventarisir.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanNav.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanPeminjam.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanPeminjaman.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanPengembalian.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterData.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterInventaris.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterJenis.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterLevel.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterPegawai.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterPetugas.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterRuang.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.OperatorNav.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Peminjaman.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.PeminjamNav.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Pengembalian.resources
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\UKK INVENTARIS.vbproj.GenerateResource.cache
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\UKK INVENTARIS.vbproj.CopyComplete
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\RAFIOSADANI\Documents\rafio_backup\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\EnvDTE.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\stdole.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.MSXML.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\UKK INVENTARIS.vbprojAssemblyReference.cache
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.AdminNav.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.FormLogin.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanInventarisir.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanNav.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanPeminjam.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanPeminjaman.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.LaporanPengembalian.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterData.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterInventaris.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterJenis.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterLevel.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterPegawai.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterPetugas.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.MasterRuang.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.OperatorNav.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Peminjaman.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.PeminjamNav.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Pengembalian.resources
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\UKK INVENTARIS.vbproj.GenerateResource.cache
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\UKK INVENTARIS.vbproj.CopyComplete
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+D:\FILE SMK\TA DAN UKK RAFIO\HASIL UKK\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb

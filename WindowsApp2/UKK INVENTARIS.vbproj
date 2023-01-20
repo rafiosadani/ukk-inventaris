@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{293DA2BB-0D09-43CE-8CA0-2193CA9B0D2F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApp2.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApp2</RootNamespace>
+    <AssemblyName>WindowsApp2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApp2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApp2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminNav.Designer.vb">
+      <DependentUpon>AdminNav.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminNav.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.vb">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanInventarisir.Designer.vb">
+      <DependentUpon>LaporanInventarisir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanInventarisir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanNav.Designer.vb">
+      <DependentUpon>LaporanNav.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanNav.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanPeminjam.Designer.vb">
+      <DependentUpon>LaporanPeminjam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanPeminjam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanPeminjaman.Designer.vb">
+      <DependentUpon>LaporanPeminjaman.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanPeminjaman.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanPengembalian.Designer.vb">
+      <DependentUpon>LaporanPengembalian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanPengembalian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData.Designer.vb">
+      <DependentUpon>MasterData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterInventaris.Designer.vb">
+      <DependentUpon>MasterInventaris.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterInventaris.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterJenis.Designer.vb">
+      <DependentUpon>MasterJenis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterJenis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterLevel.Designer.vb">
+      <DependentUpon>MasterLevel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterLevel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterPegawai.Designer.vb">
+      <DependentUpon>MasterPegawai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPegawai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterPetugas.Designer.vb">
+      <DependentUpon>MasterPetugas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPetugas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterRuang.Designer.vb">
+      <DependentUpon>MasterRuang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterRuang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OperatorNav.Designer.vb">
+      <DependentUpon>OperatorNav.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OperatorNav.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Peminjaman.Designer.vb">
+      <DependentUpon>Peminjaman.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Peminjaman.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PeminjamNav.Designer.vb">
+      <DependentUpon>PeminjamNav.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PeminjamNav.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pengembalian.Designer.vb">
+      <DependentUpon>Pengembalian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pengembalian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdminNav.resx">
+      <DependentUpon>AdminNav.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanInventarisir.resx">
+      <DependentUpon>LaporanInventarisir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanNav.resx">
+      <DependentUpon>LaporanNav.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanPeminjam.resx">
+      <DependentUpon>LaporanPeminjam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanPeminjaman.resx">
+      <DependentUpon>LaporanPeminjaman.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanPengembalian.resx">
+      <DependentUpon>LaporanPengembalian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData.resx">
+      <DependentUpon>MasterData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterInventaris.resx">
+      <DependentUpon>MasterInventaris.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterJenis.resx">
+      <DependentUpon>MasterJenis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterLevel.resx">
+      <DependentUpon>MasterLevel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterPegawai.resx">
+      <DependentUpon>MasterPegawai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterPetugas.resx">
+      <DependentUpon>MasterPetugas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterRuang.resx">
+      <DependentUpon>MasterRuang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperatorNav.resx">
+      <DependentUpon>OperatorNav.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Peminjaman.resx">
+      <DependentUpon>Peminjaman.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PeminjamNav.resx">
+      <DependentUpon>PeminjamNav.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pengembalian.resx">
+      <DependentUpon>Pengembalian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\Loader.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
